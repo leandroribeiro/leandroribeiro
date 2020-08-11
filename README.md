@@ -19,8 +19,4 @@ Eu sou Leandro Ribeiro, sou um Full Stack Developer com ênfase na stack Microso
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&theme=tokyonight)
-
----
-
 ![Leandro Ribeiro's github stats](https://github-readme-stats.vercel.app/api?username=leandroribeiro&count_private=true)
