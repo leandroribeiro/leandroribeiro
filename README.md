@@ -1,5 +1,5 @@
 # Leandro Ribeiro
-[![Linkedin Badge](https://img.shields.io/badge/-leandroribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroribeiro/)](https://www.linkedin.com/in/leandroribeiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-imleandroribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imleandroribeiro/)](https://www.linkedin.com/in/imleandroribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-falecom@leandroribeiro.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom@leandroribeiro.com)](mailto:falecom@leandroribeiro.com)
 
 ### Hi there 👋
