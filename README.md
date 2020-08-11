@@ -17,9 +17,7 @@ Eu sou Leandro Ribeiro, sou um Full Stack Developer com ênfase na stack Microso
 
 "Genius is one percent inspiration and ninety-nine percent perspiration." Thomas Edison
 
-<br />
-
-### Languages and Tools:
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&theme=tokyonight)
 
