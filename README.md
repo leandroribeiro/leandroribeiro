@@ -16,3 +16,13 @@ Eu sou Leandro Ribeiro, sou um Full Stack Developer com ênfase na stack Microso
 - 📫 Você pode me encontrar via: Linkedin ou email (veja acima)
 
 "Genius is one percent inspiration and ninety-nine percent perspiration." Thomas Edison
+
+<br />
+
+### Languages and Tools:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&theme=tokyonight)
+
+---
+
+![Leandro Ribeiro's github stats](https://github-readme-stats.vercel.app/api?username=leandroribeiro&count_private=true)
