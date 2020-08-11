@@ -8,7 +8,7 @@
 **leandroribeiro/leandroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Eu sou Leandro Ribeiro, eu sou um Full Stack Developer e venho atuado com desenvolvimento Web há 16 anos 👨‍💻
+Eu sou Leandro Ribeiro, sou um Full Stack Developer com ênfase na stack Microsoft (.NET, .NET Core e seus agregagos), venho atuando com desenvolvimento Web há 16 anos 👨‍💻
 
 - 🔭 Eu estou atualmente trabalhando com ASP.NET Core e Angular
 - 🌱 Eu estou atualmente estudando GoLang e CQRS
