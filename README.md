@@ -1,19 +1,42 @@
-# Leandro Ribeiro
-[![Linkedin Badge](https://img.shields.io/badge/-imleandroribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imleandroribeiro/)](https://www.linkedin.com/in/imleandroribeiro/)
-[![Gmail Badge](https://img.shields.io/badge/-falecom@leandroribeiro.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom@leandroribeiro.com)](mailto:falecom@leandroribeiro.com)
+# Olá mundo! 👋
 
-### Hi there 👋
+
+### Eu sou Leandro ...
 
 <!--
 **leandroribeiro/leandroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Sou um Desenvolvedor Full Stack, venho atuado nos últimos 16 anos com desenvolvimento de aplicações Web 👨‍💻
 
-Eu sou Leandro Ribeiro, sou um Full Stack Developer com ênfase na stack Microsoft (.NET, .NET Core e seus agregagos), venho atuando com desenvolvimento Web há 16 anos 👨‍💻
+💻 Com máquinas ...
 
-- 🔭 Eu estou atualmente trabalhando com ASP.NET Core e Angular
-- 🌱 Eu estou atualmente estudando GoLang e CQRS
-- 💬 Pergunte-me sobre qualquer coisa
-- 📫 Você pode me encontrar via: Linkedin ou email (veja acima)
+* 13 anos de experiência na plataforma .NET Full (ASP.NET MVC, WebForms, WinForms)
+* 5 anos de experiência na plataforma .NET Core
+* 3 anos de experiência com PHP (Cake, WordPress, Phalcon)
+* 2 anos de experiência com Python
+
+* Experiência com implantação de Integração Contínua (CI - Continuous Integration)
+* Vivência em testes automatizados (unitários, integração e aceitação/funcional)
+* Vivência em práticas de desenvolvimento orientado a testes (TDD)
+* Familiarizado em aplicação de Design Patterns e princípios SOLID
+
+
+👨‍ Com humanos ...
+
+* 6 anos de experiência atuando como Líder Técnico
+* 3 anos de experiência atuando como Scrum Master
+
+* Experiência na aplicação do framework Scrum, Extreme Programing(XP) e Kanban
+
+
+🌱 Atualmente 
+
+- Trabalhando com ASP.NET Core e Angular
+- Estudando GoLang e CQRS
+
+📫 Você pode me encontrar por aqui...
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imleandroribeiro/)](https://www.linkedin.com/in/imleandroribeiro/)
 
 "Genius is one percent inspiration and ninety-nine percent perspiration." Thomas Edison
 
