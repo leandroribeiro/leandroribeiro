@@ -9,7 +9,7 @@
 Sou um Desenvolvedor Full Stack, venho atuado nos últimos 16 anos com desenvolvimento de aplicações Web 👨‍💻
 
 💻 Com máquinas ...
-
+* 17 anos desenvolvendo aplicações para web;
 * 13 anos de experiência na plataforma .NET Full (ASP.NET MVC, WebForms, WinForms)
 * 5 anos de experiência na plataforma .NET Core
 * 3 anos de experiência com PHP (Cake, WordPress, Phalcon)
