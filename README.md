@@ -6,7 +6,6 @@
 <!--
 **leandroribeiro/leandroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Sou um Desenvolvedor Full Stack, venho atuado nos últimos 16 anos com desenvolvimento de aplicações Web 👨‍💻
 
 💻 Com máquinas ...
 * 17 anos desenvolvendo aplicações para web;
