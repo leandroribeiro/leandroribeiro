@@ -8,30 +8,30 @@
 -->
 
 💻 Com máquinas ...
+
 * 17 anos desenvolvendo aplicações para web;
 * 13 anos de experiência na plataforma .NET Full (ASP.NET MVC, WebForms, WinForms)
 * 5 anos de experiência na plataforma .NET Core
 * 3 anos de experiência com PHP (Cake, WordPress, Phalcon)
 * 2 anos de experiência com Python
 
-* Experiência com implantação de Integração Contínua (CI - Continuous Integration)
-* Vivência em testes automatizados (unitários, integração e aceitação/funcional)
-* Vivência em práticas de desenvolvimento orientado a testes (TDD)
-* Familiarizado em aplicação de Design Patterns e princípios SOLID
-
+* Experiência com implantação de Integração Contínua (CI - Continuous Integration);
+* Entusiasta de testes automatizados (unitário, integração, aceitação);
+* Experiência em práticas de desenvolvimento orientado a testes (TDD);
+* Entusiasta de boas práticas de desenvolvimento tais como SOLID, Clean Code, DRY, YAGNI;
 
 👨‍ Com humanos ...
 
-* 6 anos de experiência atuando como Líder Técnico
-* 3 anos de experiência atuando como Scrum Master
+* 8 anos de experiência atuando como Líder Técnico
+* 4 anos de experiência atuando como Scrum Master
 
-* Experiência na aplicação do framework Scrum, Extreme Programing(XP) e Kanban
-
-
+* Experiência na aplicação do framework Scrum, Extreme Programing(XP) e Kanban;
+* Experiência em ministrar treinamentos in company;
+    
 🌱 Atualmente 
 
-- Trabalhando com ASP.NET Core e Angular
-- Estudando GoLang e CQRS
+- Trabalhando com AWS, .NET Core e ReactJS
+- Estudando Arquitetura e ReactJS
 
 📫 Você pode me encontrar por aqui...
 
