@@ -32,8 +32,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imleandroribeiro/)](https://www.linkedin.com/in/imleandroribeiro/)
 
-"Genius is one percent inspiration and ninety-nine percent perspiration." Thomas Edison
 
 ---
 
-![Leandro Ribeiro's github stats](https://github-readme-stats.vercel.app/api?username=leandroribeiro&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&layout=compact)](https://github.com/leandroribeiro?tab=repositories)
