@@ -15,6 +15,8 @@
 * Experiência em práticas de desenvolvimento orientado a testes (TDD);
 * Entusiasta de boas práticas de desenvolvimento tais como SOLID, Clean Code, DRY, YAGNI;
 
+<div>
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -34,6 +36,8 @@
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
+</div>
+    
 ### 👨‍ Com humanos ...
 
 * 8 anos de experiência atuando como Líder Técnico
