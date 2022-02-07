@@ -10,11 +10,6 @@
 💻 Com máquinas ...
 
 * 17 anos desenvolvendo aplicações para web;
-* 13 anos de experiência na plataforma .NET Full (ASP.NET MVC, WebForms, WinForms)
-* 5 anos de experiência na plataforma .NET Core
-* 3 anos de experiência com PHP (Cake, WordPress, Phalcon)
-* 2 anos de experiência com Python
-
 * Experiência com implantação de Integração Contínua (CI - Continuous Integration);
 * Entusiasta de testes automatizados (unitário, integração, aceitação);
 * Experiência em práticas de desenvolvimento orientado a testes (TDD);
