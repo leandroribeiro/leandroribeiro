@@ -15,6 +15,8 @@
 * Experiência em práticas de desenvolvimento orientado a testes (TDD);
 * Entusiasta de boas práticas de desenvolvimento tais como SOLID, Clean Code, DRY, YAGNI;
 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+
 👨‍ Com humanos ...
 
 * 8 anos de experiência atuando como Líder Técnico
