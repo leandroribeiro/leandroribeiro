@@ -5,7 +5,7 @@
 
 <div display="inline-block">
 
-<a href="https://www.linkedin.com/in/imleandroribeiro/" target="_blank" >
+<a href="https://www.linkedin.com/in/imleandroribeiro/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile" width="80px" align="left" />
 </a>
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile" title="Github Profile" width="80px" align="left" />
 </a>
 
-<a href="https://gitlab.com/users/mister-ribeiro" target="_blank" >
+<a href="https://gitlab.com/users/mister-ribeiro" target="_blank">
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Profile" title="Gitlab Profile" width="80px" align="left" />
 </a>
 
@@ -29,10 +29,10 @@
 ### 💻 Com máquinas ...
 
 * 17 anos desenvolvendo aplicações para web;
-* Experiência com implantação de Integração Contínua (CI - Continuous Integration);
 * Entusiasta de testes automatizados (unitário, integração, aceitação);
 * Experiência em práticas de desenvolvimento orientado a testes (TDD);
 * Entusiasta de boas práticas de desenvolvimento tais como SOLID, Clean Code, DRY, YAGNI;
+* Experiência com implantação de Integração Contínua (CI - Continuous Integration);
 
 </br>
 
@@ -77,10 +77,21 @@
 ### 🌱 Atualmente ...
 
 - Trabalhando com AWS, .NET Core e ReactJS
-- Estudando Arquitetura e ReactJS
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40px" height="40px" alt=".NET Core" title=".NET Core" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px" alt="ReactJS" title="ReactJS" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" height="40px" alt="Amazon Web Services" title="Amazon Web Services" />
+
+- Estudando Clean Architecture e ReactJS
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px" alt="ReactJS" title="ReactJS" />
 
 <br>
 
 ### 🚀 Aqui outras coisas legais ou não ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&layout=compact)](https://github.com/leandroribeiro?tab=repositories)
+<div>
+<a href="https://github.com/leandroribeiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroribeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
