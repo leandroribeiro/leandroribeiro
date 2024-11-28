@@ -22,27 +22,16 @@
 
 #### 💻 BackEnd 
 
-| 💪💪💪 | 💪💪 | 💪 |
-| :--- | :---: | ---: |
-| .NET | NodeJS | GoLang |
-| C# | PHP | Java |
-| Python | | |
+| .NET | Python| PHP | NodeJS |
 
 
 #### 💻 Infra
 
-| 💪💪💪 | 💪💪 | 💪 |
-| :--- | :---: | ---: |
-| AWS | MySQL | DynamoDB |
-| Docker | MariaDB | Postgre |
-| MS SQL Server | Redis | |
+| Amazon Web Services | Docker |
 
 #### 💻 FrontEnd
 
-| 💪💪💪 | 💪💪 | 💪 |
-| :--- | :---: | ---: |
-| JavaScript | TypeScript | Angular |
-| JQuery | ReactJS | VueJS |
+| JavaScript | TypeScript | Angular | JQuery | ReactJS |
 
 </div>
 
